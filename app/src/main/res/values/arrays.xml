@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="predictions">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Can\'t say</item>
+        <item>Try later</item>
+        <item>Possible</item>
+    </array>
+</resources>
